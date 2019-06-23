@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlappyCISStudent</string>
+    <string name="game">GAME</string>
+    <string name="board">SCORE BOARD</string>
+    <string name="name">NAME</string>
+    <string name="fav">FAVORITE CIS CLASS</string>
+    <string name="score">YOUR SCORE: 0</string>
+    <string name="name_hint">your name</string>
+    <string name="course_hint">your favorite CIS course at Penn</string>
+    <string name="delete">DELETE</string>
+    <string name="newgame">NEW GAME</string>
+</resources>
